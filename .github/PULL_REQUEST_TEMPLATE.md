@@ -63,21 +63,4 @@ Marca antes de pedir revisión:
 - [ ] Los endpoints, servicios o módulos modificados tienen documentación actualizada
 - [ ] El PR construye correctamente (CI/CD pasa)
 
----
-
-# 🔎 Evidencia visual (opcional)
-
-Incluye capturas o GIFs si aplica:
-
-- Antes:
-- Después:
-
----
-
-# 🤝 Revisores sugeridos
-
-> (Opcional, pero usado en empresas grandes)
-
-- @usuario1
-- @usuario2
 
