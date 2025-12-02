@@ -3,6 +3,6 @@
 
 | Aspecto | Descripción |
 |---------|-------------|
-| **Pregunta** | Define qué es un artefacto y menciona tres ejemplos. |
-| **Tipo** | Procesos de Desarrollo |
+| **Pregunta** | Define qué es un artefacto y menciona tres ejemplos. Es un producto tangible que resulta de realizar un proceso. Historias de usuario, casos de uso, diagrama de casos de uso. |
+| **Tipo** | Procesos de Desarrollo|
 | **Dificultad** | ⭐⭐☆☆☆ |
