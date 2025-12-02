@@ -6,5 +6,4 @@
 | **Pregunta** | Define criterios de aceptación y da un ejemplo simple. |
 | **Tipo** | Requerimientos |
 | **Dificultad** | ⭐⭐☆☆☆ |
-
-son las condiciones específicas y medibles que deben cumplirse para la funcionalidad de un producto.
+Condiciones especificas y medibles que deben cumplirse para la funcionalidad de un producto.
