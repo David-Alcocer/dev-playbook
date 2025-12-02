@@ -6,3 +6,4 @@
 | **Pregunta** | Define criterios de aceptación y da un ejemplo simple. |
 | **Tipo** | Requerimientos |
 | **Dificultad** | ⭐⭐☆☆☆ |
+Condiciones especificas y medibles que deben cumplirse para la funcionalidad de un producto.
