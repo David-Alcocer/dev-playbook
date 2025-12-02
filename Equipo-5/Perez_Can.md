@@ -1,5 +1,6 @@
 ### 🎯 Diego Omar Pérez Can
 **¿Qué actividades pertenecen al ciclo de vida del software?**
+Las actividades principales del ciclo de vida del software incluyen planificación, análisis de requisitos, diseño, desarrollo, pruebas, implementación y mantenimiento continuo
 
 | Aspecto | Descripción |
 |---------|-------------|
