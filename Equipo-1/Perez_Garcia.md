@@ -1,5 +1,6 @@
 ### 🎯 Octavio Pérez García
 **¿Qué significa automatizar GitHub Projects?**
+Automatizar en github projects significa utilizar herramientas, workflows y reglas definidas para que las tarjetas de tareas o problemas se muevan, asignen o actualicen automáticamente dentro del tablero de proyecto, sin requerir intervencón manual.
 
 | Aspecto | Descripción |
 |---------|-------------|
