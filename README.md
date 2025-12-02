@@ -224,3 +224,16 @@ DevPlaybook no evalúa solo respuestas correctas, sino la **capacidad de seguir 
 **¿Listo para comenzar tu journey profesional?** 🚀
 
 *Únete al proyecto y experimenta el desarrollo de software como realmente es, no como te lo cuentan.*
+
+## 🎓 Mensaje Final de Agradecimiento
+
+Profesor **Edgar Cambranes Martínez**,  
+queremos expresarle nuestro más sincero agradecimiento por el acompañamiento, la guía y el apoyo que nos brindó a lo largo de este proyecto. Gracias a sus enseñanzas no solo adquirimos conocimientos técnicos sobre Ingeniería de Software, sino que también comprendimos la importancia del **proceso, la disciplina, el trabajo en equipo y la responsabilidad profesional**.
+
+Su manera de guiarnos nos motivó a **aprender por nuestra cuenta**, a investigar, a equivocarnos y a mejorar, entendiendo que el aprendizaje real no solo ocurre en el aula, sino también en la práctica constante. Este proyecto nos permitió ver cómo funcionan los procesos en un entorno más cercano a la realidad de la industria, lo cual ha sido una experiencia invaluable para nuestra formación.
+
+Gracias por alentarnos a **querer saber más**, a no quedarnos solo con lo básico y a buscar siempre una mejora continua. Sin duda, lo aprendido en este semestre deja una huella importante en nuestro camino como futuros ingenieros de software.
+
+Con respeto y gratitud,  
+**Equipo PeerHive**  
+🚀
