@@ -6,3 +6,5 @@
 | **Pregunta** | Define el rol del Scrum Master y sus responsabilidades clave. |
 | **Tipo** | Roles y Responsabilidades |
 | **Dificultad** | ⭐⭐☆☆☆ |
+
+El Scrum master elimina obstáculos para que el equipo pueda realizar las labores de scrum y dirige los eventos de Scrum. 
