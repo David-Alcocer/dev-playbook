@@ -3,6 +3,6 @@
 
 | Aspecto | Descripción |
 |---------|-------------|
-| **Pregunta** | Explica el objetivo del Sprint Planning y qué se define ahí. |
+| **Pregunta** | Explica el objetivo del Sprint Planning y qué se define ahí. El objetivo es definnir qué se hará en el próximo sprint y cómo se hará.|
 | **Tipo** | Metodologías Ágiles |
 | **Dificultad** | ⭐⭐☆☆☆ |
